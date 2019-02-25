@@ -1,4 +1,4 @@
 
 public class Nuevo {
-	private String p4365;
+	private String Bp4365;
 }
